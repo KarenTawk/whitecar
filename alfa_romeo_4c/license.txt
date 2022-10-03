@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alfa Romeo 4C
+* source:	https://sketchfab.com/3d-models/alfa-romeo-4c-1a53f9bc17b14e1788f5db342c881a33
+* author:	SpoonSports (https://sketchfab.com/boombasslord)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alfa Romeo 4C" (https://sketchfab.com/3d-models/alfa-romeo-4c-1a53f9bc17b14e1788f5db342c881a33) by SpoonSports (https://sketchfab.com/boombasslord) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
